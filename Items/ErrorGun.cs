@@ -26,7 +26,7 @@ namespace Gl1tchMod.Items
 			item.useAnimation = 2;
 			item.useStyle = 5;
             item.knockBack = -6;
-			item.value = 0;
+			item.value = 9999;
 			item.rare = -12;
 			item.UseSound = SoundID.Item21;
 			item.autoReuse = true;
