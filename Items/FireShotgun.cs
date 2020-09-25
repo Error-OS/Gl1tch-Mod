@@ -22,14 +22,14 @@ namespace Gl1tchMod.Items
             item.width = 40;
             item.height = 40;
             item.useTime = 60;
-            item.useAnimation = 40;
+            item.useAnimation = 60;
             item.useStyle = 5;
             item.noMelee = true;
             item.knockBack = 12;
             item.value = 10000;
             item.rare = 3;
             item.mana = 20;
-            item.UseSound = SoundID.Item21;
+            item.UseSound = SoundID.Item36;
             item.autoReuse = true;
             item.shoot = 15;
             item.shootSpeed = 16f;

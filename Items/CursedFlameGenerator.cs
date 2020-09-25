@@ -29,7 +29,7 @@ namespace Gl1tchMod.Items
             item.value = 10000;
             item.rare = 3;
             item.mana = 20;
-            item.UseSound = SoundID.Item21;
+            item.UseSound = SoundID.Item20;
             item.autoReuse = true;
             item.shoot = 95;
             item.shootSpeed = 20f;
