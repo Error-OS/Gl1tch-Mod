@@ -37,6 +37,10 @@ namespace Gl1tchMod.Projectiles
             {
                 projectile.Kill();
             }
+            else
+            {
+                Dust.NewDust(projectile.position, projectile.width, projectile.height, DustID.Fire);
+            }
 
         }
         public override bool PreDraw(SpriteBatch sb, Color red)
